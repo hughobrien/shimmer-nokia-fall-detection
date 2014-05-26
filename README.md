@@ -7,9 +7,9 @@ The idea was that a fall-risk person would wear the sensor, and then if a fall w
 
 The phone ran a version of python that allowed for easy access to most of its peripheral, and relatively straightforward graphing of the received signals.
 
-The [final document](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/thirdparty/fyp.pdf) is probably worth a look. Tex sources included.
+The [final document](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/tools/fyp.pdf) is probably worth a look. Tex sources included.
 
 Demo
 ----
-![demonstration](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/thirdparty/DSC_7505.jpg)
-![demonstration](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/thirdparty/DSC_7453.jpg)
+![demonstration](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/tools/DSC_7505.jpg)
+![demonstration](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/tools/DSC_7453.jpg)
