@@ -11,5 +11,5 @@ The [final document](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-
 
 Demo
 ----
-![demonstration](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/DSC_7505.jpg)
-![demonstration](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/DSC_7453.jpg)
+![demonstration](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/thirdparty/DSC_7505.jpg)
+![demonstration](https://raw.githubusercontent.com/hughobrien/shimmer-nokia-fall-detection/master/thirdparty/DSC_7453.jpg)
