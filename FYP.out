@@ -1,0 +1,77 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}
+\BOOKMARK [2][-]{subsection.1.1}{Health Care Costs}{section.1}
+\BOOKMARK [2][-]{subsection.1.2}{Health Sensors}{section.1}
+\BOOKMARK [2][-]{subsection.1.3}{Portable Computing}{section.1}
+\BOOKMARK [2][-]{subsection.1.4}{Combining Technologies}{section.1}
+\BOOKMARK [1][-]{section.2}{Sensors}{}
+\BOOKMARK [2][-]{subsection.2.1}{TelosB}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{The Mulle}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{SHIMMER}{section.2}
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Micro-Controller}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Bluetooth}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.3}{802.15.4}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.4}{Accelerometer}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.5}{Storage}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.6}{Power}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.7}{Input/Output}{subsection.2.3}
+\BOOKMARK [1][-]{section.3}{Sensor Software}{}
+\BOOKMARK [2][-]{subsection.3.1}{Contiki}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{TinyOS}{section.3}
+\BOOKMARK [1][-]{section.4}{Portable Devices}{}
+\BOOKMARK [2][-]{subsection.4.1}{HTC Dream}{section.4}
+\BOOKMARK [2][-]{subsection.4.2}{Nokia E51}{section.4}
+\BOOKMARK [1][-]{section.5}{Portable Device Software}{}
+\BOOKMARK [2][-]{subsection.5.1}{Java Platform, Micro Edition}{section.5}
+\BOOKMARK [2][-]{subsection.5.2}{Android}{section.5}
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Development}{subsection.5.2}
+\BOOKMARK [2][-]{subsection.5.3}{Symbian}{section.5}
+\BOOKMARK [3][-]{subsubsection.5.3.1}{PyS60}{subsection.5.3}
+\BOOKMARK [2][-]{subsection.5.4}{Others}{section.5}
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Palm OS}{subsection.5.4}
+\BOOKMARK [3][-]{subsubsection.5.4.2}{LiMo}{subsection.5.4}
+\BOOKMARK [3][-]{subsubsection.5.4.3}{OpenMoko}{subsection.5.4}
+\BOOKMARK [3][-]{subsubsection.5.4.4}{Windows Mobile}{subsection.5.4}
+\BOOKMARK [1][-]{section.6}{Connectivity Options}{}
+\BOOKMARK [2][-]{subsection.6.1}{Cable}{section.6}
+\BOOKMARK [2][-]{subsection.6.2}{Wi-Fi}{section.6}
+\BOOKMARK [2][-]{subsection.6.3}{802.15.4}{section.6}
+\BOOKMARK [3][-]{subsubsection.6.3.1}{ZigBee}{subsection.6.3}
+\BOOKMARK [2][-]{subsection.6.4}{Bluetooth}{section.6}
+\BOOKMARK [3][-]{subsubsection.6.4.1}{Bluetooth Low Energy Technology}{subsection.6.4}
+\BOOKMARK [1][-]{section.7}{Prototype Specifications}{}
+\BOOKMARK [2][-]{subsection.7.1}{Sensor Specifications}{section.7}
+\BOOKMARK [3][-]{subsubsection.7.1.1}{Data}{subsection.7.1}
+\BOOKMARK [3][-]{subsubsection.7.1.2}{Connectivity}{subsection.7.1}
+\BOOKMARK [2][-]{subsection.7.2}{Portable Device Specifications}{section.7}
+\BOOKMARK [3][-]{subsubsection.7.2.1}{Connectivity}{subsection.7.2}
+\BOOKMARK [2][-]{subsection.7.3}{Software Specifications}{section.7}
+\BOOKMARK [1][-]{section.8}{Design}{}
+\BOOKMARK [2][-]{subsection.8.1}{Raw Data Processing}{section.8}
+\BOOKMARK [2][-]{subsection.8.2}{Sensor Software}{section.8}
+\BOOKMARK [2][-]{subsection.8.3}{Handset Software}{section.8}
+\BOOKMARK [1][-]{section.9}{Development Software}{}
+\BOOKMARK [2][-]{subsubsection.9.0.1}{Ubuntu}{section.9}
+\BOOKMARK [3][-]{subsubsection.9.0.2}{TinyOS}{subsubsection.9.0.1}
+\BOOKMARK [3][-]{subsubsection.9.0.3}{Build-system}{subsubsection.9.0.1}
+\BOOKMARK [3][-]{subsubsection.9.0.4}{VirtualBox}{subsubsection.9.0.1}
+\BOOKMARK [3][-]{subsubsection.9.0.5}{Windows XP}{subsubsection.9.0.1}
+\BOOKMARK [3][-]{subsubsection.9.0.6}{Putty}{subsubsection.9.0.1}
+\BOOKMARK [3][-]{subsubsection.9.0.7}{Python}{subsubsection.9.0.1}
+\BOOKMARK [1][-]{section.10}{Difficulties Encountered}{}
+\BOOKMARK [2][-]{subsection.10.1}{Bluetooth Support in TOS 2.x}{section.10}
+\BOOKMARK [2][-]{subsection.10.2}{Variable Sample Rate}{section.10}
+\BOOKMARK [2][-]{subsection.10.3}{Long Running Tasks}{section.10}
+\BOOKMARK [2][-]{subsection.10.4}{Fall Detection}{section.10}
+\BOOKMARK [2][-]{subsection.10.5}{Handset UI Design}{section.10}
+\BOOKMARK [2][-]{subsection.10.6}{PC Bluetooth Module}{section.10}
+\BOOKMARK [1][-]{section.11}{Results}{}
+\BOOKMARK [2][-]{subsection.11.1}{Description of Operation}{section.11}
+\BOOKMARK [1][-]{section.12}{Conclusions}{}
+\BOOKMARK [1][-]{section.13}{Acknowledgements}{}
+\BOOKMARK [1][-]{appendix.A}{Appendix}{}
+\BOOKMARK [2][-]{subsection.A.1}{ThreeAxisToBluetoothM.nc}{appendix.A}
+\BOOKMARK [2][-]{subsection.A.2}{ThreeAxisToBluetooth.nc}{appendix.A}
+\BOOKMARK [2][-]{subsection.A.3}{Makefile}{appendix.A}
+\BOOKMARK [2][-]{subsection.A.4}{MovementGrapher.py}{appendix.A}
+\BOOKMARK [2][-]{subsection.A.5}{Demonstration}{appendix.A}
+\BOOKMARK [1][-]{figure.1}{References}{}

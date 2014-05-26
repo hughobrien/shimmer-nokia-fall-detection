@@ -1,0 +1,3 @@
+COMPONENT=ThreeAxisToBluetooth
+PFLAGS=-DDEFAULT_BAUDRATE=115200
+include ../Makerules
